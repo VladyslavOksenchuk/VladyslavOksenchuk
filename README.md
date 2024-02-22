@@ -1,6 +1,6 @@
 
 
-<img src='https://github.com/VladyslavOksenchuk/VladyslavOksenchuk/assets/50164625/aad10d1a-a26e-483f-bfb0-c01d109667c2' >
+<p align="center"><img src='https://github.com/VladyslavOksenchuk/VladyslavOksenchuk/assets/50164625/aad10d1a-a26e-483f-bfb0-c01d109667c2' width=720px ></p>
 
 
 ## 👋 &nbsp;Hi there

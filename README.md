@@ -1,3 +1,8 @@
+
+
+<img src='https://github.com/VladyslavOksenchuk/VladyslavOksenchuk/assets/50164625/aad10d1a-a26e-483f-bfb0-c01d109667c2' >
+
+
 ## 👋 &nbsp;Hi there
 I am a beginner programmer. My journey in IT started from my childhood when I started learning Python. After several years of study and trips to various Olympiads, a period began when I was looking for myself in different directions: C++, HTML/CSS, SQL, UnityEngine, C#. But I was most impressed by .NET! I am currently learning C# and .NET hard and plan to work in this profession in the future.
 &nbsp;

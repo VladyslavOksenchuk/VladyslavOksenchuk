@@ -4,7 +4,12 @@
 
 
 ## 👋 &nbsp;Hi there
-I am a beginner programmer. My journey in IT started from my childhood when I started learning Python. After several years of study and trips to various Olympiads, a period began when I was looking for myself in different directions: C++, HTML/CSS, SQL, UnityEngine, C#. But I was most impressed by .NET! I am currently learning C# and .NET hard and plan to work in this profession in the future.
+Experienced .NET MVC programmer with a year of experience in the
+development of online stores. I have the ability to effectively use .NET and MVC
+technologies to create functional and aesthetically balanced web applications. I
+demonstrate a high level of understanding of programming concepts, as well as
+the ability to work in a team and solve complex tasks.
+
 &nbsp;
 
 ## 💻 &nbsp;Languages:</h3>
